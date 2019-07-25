@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+    "editor.rulers": [79],
+    "python.linting.pylintEnabled": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pylintArgs": ["--disable=no-member"],
+    "autoDocstring.includeDescription": true,
+    "autoDocstring.docstringFormat": "numpy"
+}
