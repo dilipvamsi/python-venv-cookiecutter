@@ -6,6 +6,5 @@
     "python.linting.flake8Enabled": true,
     "python.linting.pydocstyleEnabled": true,
     "python.linting.pylintArgs": ["--disable=no-member"],
-    "autoDocstring.includeDescription": true,
     "autoDocstring.docstringFormat": "numpy"
 }
